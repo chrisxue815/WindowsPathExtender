@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsPathExtender.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LoadName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Path</Value>
+    </Setting>
+    <Setting Name="LoadLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">both</Value>
+    </Setting>
+    <Setting Name="LoadOutput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tmp/env.txt</Value>
+    </Setting>
+    <Setting Name="LoadSort" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SaveName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Path</Value>
+    </Setting>
+    <Setting Name="SaveFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Path_{0}</Value>
+    </Setting>
+    <Setting Name="SaveLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sys</Value>
+    </Setting>
+    <Setting Name="SaveInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tmp/env.txt</Value>
+    </Setting>
+    <Setting Name="SaveOutput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tmp/save.reg</Value>
+    </Setting>
+    <Setting Name="SaveBackup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoadCheck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SaveCheck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoadExpand" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

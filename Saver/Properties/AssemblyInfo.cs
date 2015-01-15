@@ -1,16 +1,15 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WindowsPathExtender")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Windows Path Extender - Saver")]
+[assembly: AssemblyDescription("This simple program helps you clean up environment variables (such as Path) and extend their maximum lengths.\r\n\r\nFork me on GitHub:\r\nhttps://github.com/chrisxue815/WindowsPathExtender")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("WindowsPathExtender")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2015")]
+[assembly: AssemblyCompany("Chris Xue <chrisxue815@gmail.com>")]
+[assembly: AssemblyProduct("Windows Path Extender - Saver")]
+[assembly: AssemblyCopyright("Released into the public domain")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("75837d50-db51-4266-a328-1a214ebf7d03")]
+[assembly: Guid("e6ed31da-8d57-483d-99f0-2ef410545989")]
 
 // Version information for an assembly consists of the following four values:
 //
